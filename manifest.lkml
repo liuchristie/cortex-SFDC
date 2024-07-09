@@ -6,7 +6,7 @@ constant: CONNECTION_NAME {
 
 
 constant: GCP_PROJECT_ID {
-  value: "appbuilder-388321"
+  value: "cortex-426423"
   export: override_required
 }
 
